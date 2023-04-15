@@ -1,11 +1,9 @@
 # WhatsAppTextAnalysis
 
-
 ## Env gerekli paketlerin kurulması
 ```bash
 pip install -r requirements.txt
 ```
-
 
 ## Usage
 ```bash
